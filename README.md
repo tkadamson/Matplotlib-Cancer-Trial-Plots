@@ -1,6 +1,6 @@
 # hw5-plotting-pymaceuticals
 
-#### Project Summary
+## Project Summary | Grade: A
 
 The objective of this project was to use the given data about mice in clinical trials of various cancer drugs to practice plotting and draw some inferences and observations from the final product. 
 
