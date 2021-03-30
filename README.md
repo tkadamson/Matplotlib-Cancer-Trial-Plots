@@ -1,8 +1,6 @@
 # hw5-plotting-pymaceuticals
 
-## Project Summary | Grade: A
-
-The objective of this project was to use the given data about mice in clinical trials of various cancer drugs to practice plotting and draw some inferences and observations from the final product. 
+#### GRADE: A
 
 After cleaning the data for potential duplicates, I created a topline statistical summary for the volume of tumors, including mean, median, standard deviation and error. I then created a bar graph to count how many times a measurment was taken for each drug regimen. I also created a pie chart that breaksdown the mice trial subjects by sex. 
 
