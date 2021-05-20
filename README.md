@@ -8,11 +8,26 @@ For this project, I was given two csv's containing data related to a cancer drug
 
 After cleaning the data for potential duplicates, I created a topline statistical summary for the volume of tumors, including mean, median, standard deviation and error. I then created a bar graph to count how many times a measurment was taken for each drug regimen. I also created a pie chart that breaksdown the mice trial subjects by sex. 
 
+##### Summary Table
+![Summary](images/Drug_Summary.png)
+
+![Counts](images/Counts_bar.png)
+
+![Sex](images/Pie_Sex.png)
+
 For the regimens of Capomulin, Ramicane, Infubinol, and Ceftamin, I performed a statistical analysis on the final tumor volume. After narrowing to the data I needed, I used the 1.5 * IQR method to determine any statistical outliers for each drug. I then plotted each drug as a box and whisker plot, which shows the mean, quartiles and potential outliers of the data set. 
+
+![Box Plots](images/Boxplots.png)
 
 The next task was selecting one mouse on the Capomulin regimen (I chose Mouse x401) and graphed the tumor volume at each measurement.
 
+![Tumor Volume](images/Volume_Line.png)
+
 Lastly, I created a scatterplot to show the relationship between weight and average tumor volume for the Capomulin regimen. Additionally, I performed an analysis of the correlation between the two variables and found the equation of the regression line. 
+
+![Scatterplot](images/Scatter.png)
+
+![Regression](images/Regression.png)
 
 Some observations about the data are listed below. You can also find all this information at the top of the workbook.
 
